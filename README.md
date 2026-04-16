@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently study on **SMK Telkom Sidoarjo**
 
-- 👨‍💻 All of my projects are available at [nbilare.my.id](nbilare.my.id)
+- 👨‍💻 All of my projects are available at [nbilare.web.id](nbilare.web.id)
 
-- 📫 How to reach me **nabilaraissaevelyna@gmail.com**
+- 📫 How to reach me **evelynabila14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
